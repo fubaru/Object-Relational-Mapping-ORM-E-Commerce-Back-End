@@ -21,7 +21,8 @@ Node, NPM, Insomnia, MySQL, and VS Code
 
 Please see demonstration by following the YouTube link. 
 
-Demo Link: https://www.youtube.com/watch?v=eob1dNCph9E
+Demo Link for VS code command line operations: https://www.youtube.com/watch?v=gQr95OtTaWY
+Demo Link Insomnia CRUD operations: https://www.youtube.com/watch?v=eob1dNCph9E
 
 ## Credits
 
